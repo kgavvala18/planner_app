@@ -6,7 +6,7 @@ import json
 from tkinter import ttk
 from tkcalendar import Calendar
 
-window = tk.Tk()
+window = tk.Tk() 
 window.title("To-do List")
 
 n = 0
